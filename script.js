@@ -1,3 +1,6 @@
+//In this project I have used papa-parse to parse the csv data
+//There are different eventListeners to perform all the oprations
+
 let authors, books, magazines;
 let titles = [];
 let value;
