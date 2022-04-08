@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  /* border: 3px solid green; */
+}
+
+div {
+  margin: 25px;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.heading {
+  border-style: solid;
+  border-color: rgb(180, 171, 171);
+  margin-bottom: 50px;
+}
+
+.input {
+  width: 50%;
+}
